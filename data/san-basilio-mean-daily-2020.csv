@@ -1,0 +1,367 @@
+DATE,DAY,MONTH,YEAR,HOUR,WEEKDAY,WEEKEND,O3,NO2,NOX,PM10,PM10_Q,PM25,PM25_Q,QUALITY
+01/01/2020,1,1,2020,0,3,Weekday,15,40,90,62,Desfavorable,,,BAD
+02/01/2020,2,1,2020,0,4,Weekday,10,49,110,47,Regular,,,GOOD
+03/01/2020,3,1,2020,0,5,Weekday,13,44,107,42,Regular,,,GOOD
+04/01/2020,4,1,2020,0,6,Weekend,17,40,85,53,Desfavorable,,,BAD
+05/01/2020,5,1,2020,0,7,Weekend,16,33,69,48,Regular,,,GOOD
+06/01/2020,6,1,2020,0,1,Weekday,14,,,46,Regular,,,GOOD
+07/01/2020,7,1,2020,0,2,Weekday,11,,,54,Desfavorable,,,BAD
+08/01/2020,8,1,2020,0,3,Weekday,13,,,67,Desfavorable,,,BAD
+09/01/2020,9,1,2020,0,4,Weekday,17,58,115,54,Desfavorable,,,BAD
+10/01/2020,10,1,2020,0,5,Weekday,22,52,98,33,Razonablemente buena,,,GOOD
+11/01/2020,11,1,2020,0,6,Weekend,40,41,67,22,Razonablemente buena,,,GOOD
+12/01/2020,12,1,2020,0,7,Weekend,27,41,72,30,Razonablemente buena,,,GOOD
+13/01/2020,13,1,2020,0,1,Weekday,13,61,145,45,Regular,,,GOOD
+14/01/2020,14,1,2020,0,2,Weekday,18,65,152,48,Regular,,,GOOD
+15/01/2020,15,1,2020,0,3,Weekday,14,70,148,51,Desfavorable,,,BAD
+16/01/2020,16,1,2020,0,4,Weekday,15,68,165,51,Desfavorable,,,BAD
+17/01/2020,17,1,2020,0,5,Weekday,14,67,153,50,Regular,,,GOOD
+18/01/2020,18,1,2020,0,6,Weekend,11,60,120,47,Regular,,,GOOD
+19/01/2020,19,1,2020,0,7,Weekend,39,33,60,28,Razonablemente buena,,,GOOD
+20/01/2020,20,1,2020,0,1,Weekday,31,45,88,17,Buena,,,GOOD
+21/01/2020,21,1,2020,0,2,Weekday,22,50,100,29,Razonablemente buena,,,GOOD
+22/01/2020,22,1,2020,0,3,Weekday,19,50,116,98,Desfavorable,,,BAD
+23/01/2020,23,1,2020,0,4,Weekday,16,45,93,94,Desfavorable,,,BAD
+24/01/2020,24,1,2020,0,5,Weekday,9,61,131,85,Desfavorable,,,BAD
+25/01/2020,25,1,2020,0,6,Weekend,13,50,97,83,Desfavorable,,,BAD
+26/01/2020,26,1,2020,0,7,Weekend,19,45,86,39,Razonablemente buena,,,GOOD
+27/01/2020,27,1,2020,0,1,Weekday,18,55,113,32,Razonablemente buena,,,GOOD
+28/01/2020,28,1,2020,0,2,Weekday,12,58,130,36,Razonablemente buena,,,GOOD
+29/01/2020,29,1,2020,0,3,Weekday,12,55,130,31,Razonablemente buena,,,GOOD
+30/01/2020,30,1,2020,0,4,Weekday,15,54,112,30,Razonablemente buena,,,GOOD
+31/01/2020,31,1,2020,0,5,Weekday,26,50,95,23,Razonablemente buena,,,GOOD
+01/02/2020,1,2,2020,0,6,Weekend,18,44,80,24,Razonablemente buena,,,GOOD
+02/02/2020,2,2,2020,0,7,Weekend,25,39,64,19,Buena,,,GOOD
+03/02/2020,3,2,2020,0,1,Weekday,16,51,120,27,Razonablemente buena,,,GOOD
+04/02/2020,4,2,2020,0,2,Weekday,15,60,138,32,Razonablemente buena,,,GOOD
+05/02/2020,5,2,2020,0,3,Weekday,37,45,71,38,Razonablemente buena,,,GOOD
+06/02/2020,6,2,2020,0,4,Weekday,27,47,97,38,Razonablemente buena,,,GOOD
+07/02/2020,7,2,2020,0,5,Weekday,19,57,120,36,Razonablemente buena,,,GOOD
+08/02/2020,8,2,2020,0,6,Weekend,18,46,88,43,Regular,,,GOOD
+09/02/2020,9,2,2020,0,7,Weekend,30,41,66,36,Razonablemente buena,,,GOOD
+10/02/2020,10,2,2020,0,1,Weekday,19,52,97,34,Razonablemente buena,,,GOOD
+11/02/2020,11,2,2020,0,2,Weekday,25,53,94,32,Razonablemente buena,,,GOOD
+12/02/2020,12,2,2020,0,3,Weekday,28,47,81,46,Regular,,,GOOD
+13/02/2020,13,2,2020,0,4,Weekday,20,50,99,35,Razonablemente buena,,,GOOD
+14/02/2020,14,2,2020,0,5,Weekday,27,48,105,28,Razonablemente buena,,,GOOD
+15/02/2020,15,2,2020,0,6,Weekend,29,45,84,46,Regular,,,GOOD
+16/02/2020,16,2,2020,0,7,Weekend,32,35,55,44,Regular,,,GOOD
+17/02/2020,17,2,2020,0,1,Weekday,28,47,90,27,Razonablemente buena,,,GOOD
+18/02/2020,18,2,2020,0,2,Weekday,43,33,45,30,Razonablemente buena,,,GOOD
+19/02/2020,19,2,2020,0,3,Weekday,34,46,78,26,Razonablemente buena,,,GOOD
+20/02/2020,20,2,2020,0,4,Weekday,32,45,78,28,Razonablemente buena,,,GOOD
+21/02/2020,21,2,2020,0,5,Weekday,32,45,91,32,Razonablemente buena,,,GOOD
+22/02/2020,22,2,2020,0,6,Weekend,38,40,72,32,Razonablemente buena,,,GOOD
+23/02/2020,23,2,2020,0,7,Weekend,40,38,62,32,Razonablemente buena,,,GOOD
+24/02/2020,24,2,2020,0,1,Weekday,30,47,87,28,Razonablemente buena,,,GOOD
+25/02/2020,25,2,2020,0,2,Weekday,34,56,99,29,Razonablemente buena,,,GOOD
+26/02/2020,26,2,2020,0,3,Weekday,45,49,84,23,Razonablemente buena,,,GOOD
+27/02/2020,27,2,2020,0,4,Weekday,33,58,104,30,Razonablemente buena,,,GOOD
+28/02/2020,28,2,2020,0,5,Weekday,37,49,93,112,Muy desfavorable,,,BAD
+29/02/2020,29,2,2020,0,6,Weekend,30,50,87,106,Muy desfavorable,,,BAD
+01/03/2020,1,3,2020,0,7,Weekend,33,47,74,31,Razonablemente buena,,,GOOD
+02/03/2020,2,3,2020,0,1,Weekday,67,26,42,19,Buena,,,GOOD
+03/03/2020,3,3,2020,0,2,Weekday,39,50,98,18,Buena,,,GOOD
+04/03/2020,4,3,2020,0,3,Weekday,29,45,82,21,Razonablemente buena,,,GOOD
+05/03/2020,5,3,2020,0,4,Weekday,37,42,77,21,Razonablemente buena,,,GOOD
+06/03/2020,6,3,2020,0,5,Weekday,56,41,65,14,Buena,,,GOOD
+07/03/2020,7,3,2020,0,6,Weekend,58,36,52,,,,,
+08/03/2020,8,3,2020,0,7,Weekend,46,41,59,20,Buena,,,GOOD
+09/03/2020,9,3,2020,0,1,Weekday,50,42,63,19,Buena,,,GOOD
+10/03/2020,10,3,2020,0,2,Weekday,49,48,79,20,Buena,,,GOOD
+11/03/2020,11,3,2020,0,3,Weekday,42,45,80,32,Razonablemente buena,,,GOOD
+12/03/2020,12,3,2020,0,4,Weekday,41,49,80,33,Razonablemente buena,,,GOOD
+13/03/2020,13,3,2020,0,5,Weekday,46,41,72,30,Razonablemente buena,,,GOOD
+14/03/2020,14,3,2020,0,6,Weekend,49,29,47,26,Razonablemente buena,,,GOOD
+15/03/2020,15,3,2020,0,7,Weekend,69,15,24,21,Razonablemente buena,,,GOOD
+16/03/2020,16,3,2020,0,1,Weekday,50,33,49,20,Buena,,,GOOD
+17/03/2020,17,3,2020,0,2,Weekday,30,40,73,27,Razonablemente buena,,,GOOD
+18/03/2020,18,3,2020,0,3,Weekday,54,27,48,31,Razonablemente buena,,,GOOD
+19/03/2020,19,3,2020,0,4,Weekday,67,17,26,21,Razonablemente buena,,,GOOD
+20/03/2020,20,3,2020,0,5,Weekday,54,26,44,21,Razonablemente buena,,,GOOD
+21/03/2020,21,3,2020,0,6,Weekend,53,22,33,21,Razonablemente buena,,,GOOD
+22/03/2020,22,3,2020,0,7,Weekend,39,18,28,14,Buena,,,GOOD
+23/03/2020,23,3,2020,0,1,Weekday,42,25,45,24,Razonablemente buena,,,GOOD
+24/03/2020,24,3,2020,0,2,Weekday,63,22,32,29,Razonablemente buena,,,GOOD
+25/03/2020,25,3,2020,0,3,Weekday,57,27,43,17,Buena,,,GOOD
+26/03/2020,26,3,2020,0,4,Weekday,59,25,41,,,,,
+27/03/2020,27,3,2020,0,5,Weekday,67,23,33,12,Buena,,,GOOD
+28/03/2020,28,3,2020,0,6,Weekend,68,20,31,,,,,
+29/03/2020,29,3,2020,0,7,Weekend,53,20,32,18,Buena,,,GOOD
+30/03/2020,30,3,2020,0,1,Weekday,54,26,45,21,Razonablemente buena,,,GOOD
+31/03/2020,31,3,2020,0,2,Weekday,70,21,32,21,Razonablemente buena,,,GOOD
+01/04/2020,1,4,2020,0,3,Weekday,56,25,40,,,,,
+02/04/2020,2,4,2020,0,4,Weekday,60,25,44,,,,,
+03/04/2020,3,4,2020,0,5,Weekday,59,23,39,10,Buena,,,GOOD
+04/04/2020,4,4,2020,0,6,Weekend,59,20,35,30,Razonablemente buena,,,GOOD
+05/04/2020,5,4,2020,0,7,Weekend,72,16,27,20,Buena,,,GOOD
+06/04/2020,6,4,2020,0,1,Weekday,61,22,40,17,Buena,,,GOOD
+07/04/2020,7,4,2020,0,2,Weekday,68,21,36,23,Razonablemente buena,,,GOOD
+08/04/2020,8,4,2020,0,3,Weekday,69,23,41,,,,,
+09/04/2020,9,4,2020,0,4,Weekday,71,20,32,,,,,
+10/04/2020,10,4,2020,0,5,Weekday,78,18,28,,,,,
+11/04/2020,11,4,2020,0,6,Weekend,77,19,32,,,,,
+12/04/2020,12,4,2020,0,7,Weekend,74,16,26,,,,,
+13/04/2020,13,4,2020,0,1,Weekday,65,23,36,,,,,
+14/04/2020,14,4,2020,0,2,Weekday,62,22,36,19,Buena,,,GOOD
+15/04/2020,15,4,2020,0,3,Weekday,60,22,35,21,Razonablemente buena,,,GOOD
+16/04/2020,16,4,2020,0,4,Weekday,57,23,44,22,Razonablemente buena,,,GOOD
+17/04/2020,17,4,2020,0,5,Weekday,52,22,38,26,Razonablemente buena,,,GOOD
+18/04/2020,18,4,2020,0,6,Weekend,52,21,34,32,Razonablemente buena,,,GOOD
+19/04/2020,19,4,2020,0,7,Weekend,50,16,27,,,,,
+20/04/2020,20,4,2020,0,1,Weekday,44,32,56,,,,,
+21/04/2020,21,4,2020,0,2,Weekday,60,27,42,13,Buena,,,GOOD
+22/04/2020,22,4,2020,0,3,Weekday,65,23,35,6,Buena,,,GOOD
+23/04/2020,23,4,2020,0,4,Weekday,58,23,45,21,Razonablemente buena,,,GOOD
+24/04/2020,24,4,2020,0,5,Weekday,66,23,40,,,,,
+25/04/2020,25,4,2020,0,6,Weekend,56,22,35,19,Buena,,,GOOD
+26/04/2020,26,4,2020,0,7,Weekend,48,15,27,,,,,
+27/04/2020,27,4,2020,0,1,Weekday,51,25,44,,,,,
+28/04/2020,28,4,2020,0,2,Weekday,45,28,51,,,,,
+29/04/2020,29,4,2020,0,3,Weekday,48,30,54,,,,,
+30/04/2020,30,4,2020,0,4,Weekday,46,29,52,,,,,
+01/05/2020,1,5,2020,0,5,Weekday,56,19,31,25,Razonablemente buena,,,GOOD
+02/05/2020,2,5,2020,0,6,Weekend,45,18,31,,,,,
+03/05/2020,3,5,2020,0,7,Weekend,50,16,26,,,,,
+04/05/2020,4,5,2020,0,1,Weekday,49,18,35,,,,,
+05/05/2020,5,5,2020,0,2,Weekday,50,24,40,29,Razonablemente buena,,,GOOD
+06/05/2020,6,5,2020,0,3,Weekday,52,26,44,28,Razonablemente buena,,,GOOD
+07/05/2020,7,5,2020,0,4,Weekday,54,21,39,25,Razonablemente buena,,,GOOD
+08/05/2020,8,5,2020,0,5,Weekday,55,24,40,26,Razonablemente buena,,,GOOD
+09/05/2020,9,5,2020,0,6,Weekend,64,17,28,27,Razonablemente buena,,,GOOD
+10/05/2020,10,5,2020,0,7,Weekend,67,13,22,19,Buena,,,GOOD
+11/05/2020,11,5,2020,0,1,Weekday,54,30,46,17,Buena,,,GOOD
+12/05/2020,12,5,2020,0,2,Weekday,46,31,51,27,Razonablemente buena,,,GOOD
+13/05/2020,13,5,2020,0,3,Weekday,60,27,,20,Buena,,,GOOD
+14/05/2020,14,5,2020,0,4,Weekday,59,23,,24,Razonablemente buena,,,GOOD
+15/05/2020,15,5,2020,0,5,Weekday,38,28,47,18,Buena,,,GOOD
+16/05/2020,16,5,2020,0,6,Weekend,45,23,34,25,Razonablemente buena,,,GOOD
+17/05/2020,17,5,2020,0,7,Weekend,45,18,26,32,Razonablemente buena,,,GOOD
+18/05/2020,18,5,2020,0,1,Weekday,49,25,41,24,Razonablemente buena,,,GOOD
+19/05/2020,19,5,2020,0,2,Weekday,59,27,41,25,Razonablemente buena,,,GOOD
+20/05/2020,20,5,2020,0,3,Weekday,64,24,38,35,Razonablemente buena,,,GOOD
+21/05/2020,21,5,2020,0,4,Weekday,61,24,36,31,Razonablemente buena,,,GOOD
+22/05/2020,22,5,2020,0,5,Weekday,64,23,35,38,Razonablemente buena,,,GOOD
+23/05/2020,23,5,2020,0,6,Weekend,69,19,26,,,,,
+24/05/2020,24,5,2020,0,7,Weekend,67,11,16,25,Razonablemente buena,,,GOOD
+25/05/2020,25,5,2020,0,1,Weekday,54,17,28,23,Razonablemente buena,,,GOOD
+26/05/2020,26,5,2020,0,2,Weekday,55,21,34,,,,,
+27/05/2020,27,5,2020,0,3,Weekday,64,21,33,,,,,
+28/05/2020,28,5,2020,0,4,Weekday,65,22,32,22,Razonablemente buena,,,GOOD
+29/05/2020,29,5,2020,0,5,Weekday,68,23,34,,,,,
+30/05/2020,30,5,2020,0,6,Weekend,69,19,26,22,Razonablemente buena,,,GOOD
+31/05/2020,31,5,2020,0,7,Weekend,71,13,18,24,Razonablemente buena,,,GOOD
+01/06/2020,1,6,2020,0,1,Weekday,64,19,31,20,Buena,,,GOOD
+02/06/2020,2,6,2020,0,2,Weekday,57,25,39,24,Razonablemente buena,,,GOOD
+03/06/2020,3,6,2020,0,3,Weekday,56,27,40,34,Razonablemente buena,,,GOOD
+04/06/2020,4,6,2020,0,4,Weekday,35,33,52,29,Razonablemente buena,,,GOOD
+05/06/2020,5,6,2020,0,5,Weekday,40,28,49,29,Razonablemente buena,,,GOOD
+06/06/2020,6,6,2020,0,6,Weekend,49,27,39,24,Razonablemente buena,,,GOOD
+07/06/2020,7,6,2020,0,7,Weekend,41,21,32,25,Razonablemente buena,,,GOOD
+08/06/2020,8,6,2020,0,1,Weekday,37,20,31,24,Razonablemente buena,,,GOOD
+09/06/2020,9,6,2020,0,2,Weekday,48,9,18,12,Buena,,,GOOD
+10/06/2020,10,6,2020,0,3,Weekday,44,4,12,19,Buena,,,GOOD
+11/06/2020,11,6,2020,0,4,Weekday,57,25,38,29,Razonablemente buena,,,GOOD
+12/06/2020,12,6,2020,0,5,Weekday,48,29,48,22,Razonablemente buena,,,GOOD
+13/06/2020,13,6,2020,0,6,Weekend,60,26,40,69,Desfavorable,,,BAD
+14/06/2020,14,6,2020,0,7,Weekend,58,25,36,,,,,
+15/06/2020,15,6,2020,0,1,Weekday,60,33,49,,,,,
+16/06/2020,16,6,2020,0,2,Weekday,61,33,52,34,Razonablemente buena,,,GOOD
+17/06/2020,17,6,2020,0,3,Weekday,55,29,45,32,Razonablemente buena,,,GOOD
+18/06/2020,18,6,2020,0,4,Weekday,58,19,30,29,Razonablemente buena,,,GOOD
+19/06/2020,19,6,2020,0,5,Weekday,57,24,36,21,Razonablemente buena,,,GOOD
+20/06/2020,20,6,2020,0,6,Weekend,53,25,37,25,Razonablemente buena,,,GOOD
+21/06/2020,21,6,2020,0,7,Weekend,56,20,31,27,Razonablemente buena,,,GOOD
+22/06/2020,22,6,2020,0,1,Weekday,51,24,39,21,Razonablemente buena,,,GOOD
+23/06/2020,23,6,2020,0,2,Weekday,44,25,43,19,Buena,,,GOOD
+24/06/2020,24,6,2020,0,3,Weekday,49,28,45,28,Razonablemente buena,,,GOOD
+25/06/2020,25,6,2020,0,4,Weekday,63,31,47,21,Razonablemente buena,,,GOOD
+26/06/2020,26,6,2020,0,5,Weekday,63,28,44,29,Razonablemente buena,,,GOOD
+27/06/2020,27,6,2020,0,6,Weekend,66,25,37,34,Razonablemente buena,,,GOOD
+28/06/2020,28,6,2020,0,7,Weekend,60,21,31,37,Razonablemente buena,,,GOOD
+29/06/2020,29,6,2020,0,1,Weekday,52,28,48,29,Razonablemente buena,,,GOOD
+30/06/2020,30,6,2020,0,2,Weekday,45,22,36,28,Razonablemente buena,,,GOOD
+01/07/2020,1,7,2020,0,3,Weekday,51,37,57,43,Regular,,,GOOD
+02/07/2020,2,7,2020,0,4,Weekday,50,34,54,45,Regular,,,GOOD
+03/07/2020,3,7,2020,0,5,Weekday,48,20,34,29,Razonablemente buena,,,GOOD
+04/07/2020,4,7,2020,0,6,Weekend,52,14,23,21,Razonablemente buena,,,GOOD
+05/07/2020,5,7,2020,0,7,Weekend,53,16,26,19,Buena,,,GOOD
+06/07/2020,6,7,2020,0,1,Weekday,55,26,42,25,Razonablemente buena,,,GOOD
+07/07/2020,7,7,2020,0,2,Weekday,52,27,44,28,Razonablemente buena,,,GOOD
+08/07/2020,8,7,2020,0,3,Weekday,45,22,36,22,Razonablemente buena,,,GOOD
+09/07/2020,9,7,2020,0,4,Weekday,48,27,45,22,Razonablemente buena,,,GOOD
+10/07/2020,10,7,2020,0,5,Weekday,51,29,46,32,Razonablemente buena,,,GOOD
+11/07/2020,11,7,2020,0,6,Weekend,51,21,34,31,Razonablemente buena,,,GOOD
+12/07/2020,12,7,2020,0,7,Weekend,57,15,25,29,Razonablemente buena,,,GOOD
+13/07/2020,13,7,2020,0,1,Weekday,46,27,44,24,Razonablemente buena,,,GOOD
+14/07/2020,14,7,2020,0,2,Weekday,59,26,39,19,Buena,,,GOOD
+15/07/2020,15,7,2020,0,3,Weekday,61,26,44,18,Buena,,,GOOD
+16/07/2020,16,7,2020,0,4,Weekday,63,26,41,24,Razonablemente buena,,,GOOD
+17/07/2020,17,7,2020,0,5,Weekday,56,24,39,27,Razonablemente buena,,,GOOD
+18/07/2020,18,7,2020,0,6,Weekend,53,16,27,21,Razonablemente buena,,,GOOD
+19/07/2020,19,7,2020,0,7,Weekend,57,16,27,21,Razonablemente buena,,,GOOD
+20/07/2020,20,7,2020,0,1,Weekday,59,19,32,19,Buena,,,GOOD
+21/07/2020,21,7,2020,0,2,Weekday,50,23,40,21,Razonablemente buena,,,GOOD
+22/07/2020,22,7,2020,0,3,Weekday,63,26,40,27,Razonablemente buena,,,GOOD
+23/07/2020,23,7,2020,0,4,Weekday,61,33,51,29,Razonablemente buena,,,GOOD
+24/07/2020,24,7,2020,0,5,Weekday,62,28,44,28,Razonablemente buena,,,GOOD
+25/07/2020,25,7,2020,0,6,Weekend,62,18,28,24,Razonablemente buena,,,GOOD
+26/07/2020,26,7,2020,0,7,Weekend,58,17,28,26,Razonablemente buena,,,GOOD
+27/07/2020,27,7,2020,0,1,Weekday,57,28,45,29,Razonablemente buena,,,GOOD
+28/07/2020,28,7,2020,0,2,Weekday,54,31,49,35,Razonablemente buena,,,GOOD
+29/07/2020,29,7,2020,0,3,Weekday,58,26,41,31,Razonablemente buena,,,GOOD
+30/07/2020,30,7,2020,0,4,Weekday,57,28,44,30,Razonablemente buena,,,GOOD
+31/07/2020,31,7,2020,0,5,Weekday,60,33,52,32,Razonablemente buena,,,GOOD
+01/08/2020,1,8,2020,0,6,Weekend,58,30,43,43,Regular,,,GOOD
+02/08/2020,2,8,2020,0,7,Weekend,46,23,34,46,Regular,,,GOOD
+03/08/2020,3,8,2020,0,1,Weekday,54,20,31,28,Razonablemente buena,,,GOOD
+04/08/2020,4,8,2020,0,2,Weekday,54,17,28,23,Razonablemente buena,,,GOOD
+05/08/2020,5,8,2020,0,3,Weekday,49,20,34,22,Razonablemente buena,,,GOOD
+06/08/2020,6,8,2020,0,4,Weekday,54,19,32,21,Razonablemente buena,,,GOOD
+07/08/2020,7,8,2020,0,5,Weekday,55,26,43,22,Razonablemente buena,,,GOOD
+08/08/2020,8,8,2020,0,6,Weekend,60,23,36,25,Razonablemente buena,,,GOOD
+09/08/2020,9,8,2020,0,7,Weekend,58,22,33,26,Razonablemente buena,,,GOOD
+10/08/2020,10,8,2020,0,1,Weekday,56,24,40,25,Razonablemente buena,,,GOOD
+11/08/2020,11,8,2020,0,2,Weekday,57,21,34,30,Razonablemente buena,,,GOOD
+12/08/2020,12,8,2020,0,3,Weekday,61,28,41,33,Razonablemente buena,,,GOOD
+13/08/2020,13,8,2020,0,4,Weekday,63,28,43,43,Regular,,,GOOD
+14/08/2020,14,8,2020,0,5,Weekday,56,25,41,33,Razonablemente buena,,,GOOD
+15/08/2020,15,8,2020,0,6,Weekend,63,22,33,28,Razonablemente buena,,,GOOD
+16/08/2020,16,8,2020,0,7,Weekend,68,24,34,28,Razonablemente buena,,,GOOD
+17/08/2020,17,8,2020,0,1,Weekday,51,38,56,32,Razonablemente buena,,,GOOD
+18/08/2020,18,8,2020,0,2,Weekday,53,32,52,30,Razonablemente buena,,,GOOD
+19/08/2020,19,8,2020,0,3,Weekday,57,26,41,29,Razonablemente buena,,,GOOD
+20/08/2020,20,8,2020,0,4,Weekday,48,27,44,28,Razonablemente buena,,,GOOD
+21/08/2020,21,8,2020,0,5,Weekday,51,28,41,31,Razonablemente buena,,,GOOD
+22/08/2020,22,8,2020,0,6,Weekend,49,23,35,32,Razonablemente buena,,,GOOD
+23/08/2020,23,8,2020,0,7,Weekend,46,15,24,28,Razonablemente buena,,,GOOD
+24/08/2020,24,8,2020,0,1,Weekday,54,14,24,21,Razonablemente buena,,,GOOD
+25/08/2020,25,8,2020,0,2,Weekday,44,16,29,23,Razonablemente buena,,,GOOD
+26/08/2020,26,8,2020,0,3,Weekday,,,,,,,,
+27/08/2020,27,8,2020,0,4,Weekday,,,,,,,,
+28/08/2020,28,8,2020,0,5,Weekday,40,29,41,31,Razonablemente buena,,,GOOD
+29/08/2020,29,8,2020,0,6,Weekend,38,23,33,31,Razonablemente buena,,,GOOD
+30/08/2020,30,8,2020,0,7,Weekend,39,20,28,20,Buena,,,GOOD
+31/08/2020,31,8,2020,0,1,Weekday,39,21,39,16,Buena,,,GOOD
+01/09/2020,1,9,2020,0,2,Weekday,37,23,37,19,Buena,,,GOOD
+02/09/2020,2,9,2020,0,3,Weekday,39,23,38,20,Buena,,,GOOD
+03/09/2020,3,9,2020,0,4,Weekday,42,20,36,20,Buena,,,GOOD
+04/09/2020,4,9,2020,0,5,Weekday,44,23,37,20,Buena,,,GOOD
+05/09/2020,5,9,2020,0,6,Weekend,48,19,27,20,Buena,,,GOOD
+06/09/2020,6,9,2020,0,7,Weekend,47,16,23,18,Buena,,,GOOD
+07/09/2020,7,9,2020,0,1,Weekday,40,21,35,17,Buena,,,GOOD
+08/09/2020,8,9,2020,0,2,Weekday,54,16,24,15,Buena,,,GOOD
+09/09/2020,9,9,2020,0,3,Weekday,52,23,36,20,Buena,13,Razonablemente buena,GOOD
+10/09/2020,10,9,2020,0,4,Weekday,51,23,35,25,Razonablemente buena,14,Razonablemente buena,GOOD
+11/09/2020,11,9,2020,0,5,Weekday,44,24,38,26,Razonablemente buena,15,Razonablemente buena,GOOD
+12/09/2020,12,9,2020,0,6,Weekend,50,,,28,Razonablemente buena,16,Razonablemente buena,GOOD
+13/09/2020,13,9,2020,0,7,Weekend,48,,,23,Razonablemente buena,14,Razonablemente buena,GOOD
+14/09/2020,14,9,2020,0,1,Weekday,41,,,26,Razonablemente buena,16,Razonablemente buena,GOOD
+15/09/2020,15,9,2020,0,2,Weekday,49,,,26,Razonablemente buena,19,Razonablemente buena,GOOD
+16/09/2020,16,9,2020,0,3,Weekday,43,26,39,30,Razonablemente buena,22,Regular,GOOD
+17/09/2020,17,9,2020,0,4,Weekday,39,25,40,29,Razonablemente buena,22,Regular,GOOD
+18/09/2020,18,9,2020,0,5,Weekday,29,29,41,18,Buena,13,Razonablemente buena,GOOD
+19/09/2020,19,9,2020,0,6,Weekend,35,30,52,22,Razonablemente buena,13,Razonablemente buena,GOOD
+20/09/2020,20,9,2020,0,7,Weekend,40,26,37,17,Buena,11,Razonablemente buena,GOOD
+21/09/2020,21,9,2020,0,1,Weekday,37,32,52,19,Buena,12,Razonablemente buena,GOOD
+22/09/2020,22,9,2020,0,2,Weekday,41,22,39,29,Razonablemente buena,18,Razonablemente buena,GOOD
+23/09/2020,23,9,2020,0,3,Weekday,38,32,52,33,Razonablemente buena,20,Razonablemente buena,GOOD
+24/09/2020,24,9,2020,0,4,Weekday,32,35,58,27,Razonablemente buena,19,Razonablemente buena,GOOD
+25/09/2020,25,9,2020,0,5,Weekday,45,27,46,24,Razonablemente buena,14,Razonablemente buena,GOOD
+26/09/2020,26,9,2020,0,6,Weekend,51,26,36,14,Buena,10,Buena,GOOD
+27/09/2020,27,9,2020,0,7,Weekend,54,17,24,18,Buena,10,Buena,GOOD
+28/09/2020,28,9,2020,0,1,Weekday,45,30,54,21,Razonablemente buena,14,Razonablemente buena,GOOD
+29/09/2020,29,9,2020,0,2,Weekday,39,29,46,22,Razonablemente buena,13,Razonablemente buena,GOOD
+30/09/2020,30,9,2020,0,3,Weekday,29,34,58,22,Razonablemente buena,13,Razonablemente buena,GOOD
+01/10/2020,1,10,2020,0,4,Weekday,39,38,61,31,Razonablemente buena,19,Razonablemente buena,GOOD
+02/10/2020,2,10,2020,0,5,Weekday,40,28,47,25,Razonablemente buena,17,Razonablemente buena,GOOD
+03/10/2020,3,10,2020,0,6,Weekend,44,25,38,14,Buena,13,Razonablemente buena,GOOD
+04/10/2020,4,10,2020,0,7,Weekend,41,26,37,17,Buena,15,Razonablemente buena,GOOD
+05/10/2020,5,10,2020,0,1,Weekday,33,32,67,16,Buena,13,Razonablemente buena,GOOD
+06/10/2020,6,10,2020,0,2,Weekday,34,34,61,26,Razonablemente buena,17,Razonablemente buena,GOOD
+07/10/2020,7,10,2020,0,3,Weekday,37,31,55,23,Razonablemente buena,17,Razonablemente buena,GOOD
+08/10/2020,8,10,2020,0,4,Weekday,28,29,50,37,Razonablemente buena,12,Razonablemente buena,GOOD
+09/10/2020,9,10,2020,0,5,Weekday,31,27,50,29,Razonablemente buena,13,Razonablemente buena,GOOD
+10/10/2020,10,10,2020,0,6,Weekend,32,22,36,26,Razonablemente buena,16,Razonablemente buena,GOOD
+11/10/2020,11,10,2020,0,7,Weekend,39,18,27,16,Buena,12,Razonablemente buena,GOOD
+12/10/2020,12,10,2020,0,1,Weekday,48,23,31,25,Razonablemente buena,10,Buena,GOOD
+13/10/2020,13,10,2020,0,2,Weekday,35,36,59,17,Buena,13,Razonablemente buena,GOOD
+14/10/2020,14,10,2020,0,3,Weekday,31,29,56,22,Razonablemente buena,14,Razonablemente buena,GOOD
+15/10/2020,15,10,2020,0,4,Weekday,33,35,59,16,Buena,12,Razonablemente buena,GOOD
+16/10/2020,16,10,2020,0,5,Weekday,37,36,67,16,Buena,13,Razonablemente buena,GOOD
+17/10/2020,17,10,2020,0,6,Weekend,39,34,52,20,Buena,17,Razonablemente buena,GOOD
+18/10/2020,18,10,2020,0,7,Weekend,46,23,34,27,Razonablemente buena,18,Razonablemente buena,GOOD
+19/10/2020,19,10,2020,0,1,Weekday,40,29,46,23,Razonablemente buena,14,Razonablemente buena,GOOD
+20/10/2020,20,10,2020,0,2,Weekday,42,29,50,26,Razonablemente buena,15,Razonablemente buena,GOOD
+21/10/2020,21,10,2020,0,3,Weekday,31,40,71,41,Regular,21,Regular,GOOD
+22/10/2020,22,10,2020,0,4,Weekday,12,42,92,47,Regular,23,Regular,GOOD
+23/10/2020,23,10,2020,0,5,Weekday,25,33,69,28,Razonablemente buena,14,Razonablemente buena,GOOD
+24/10/2020,24,10,2020,0,6,Weekend,36,30,48,14,Buena,13,Razonablemente buena,GOOD
+25/10/2020,25,10,2020,0,7,Weekend,38,26,36,15,Buena,12,Razonablemente buena,GOOD
+26/10/2020,26,10,2020,0,1,Weekday,45,24,35,24,Razonablemente buena,10,Buena,GOOD
+27/10/2020,27,10,2020,0,2,Weekday,32,35,59,11,Buena,10,Buena,GOOD
+28/10/2020,28,10,2020,0,3,Weekday,34,32,50,29,Razonablemente buena,13,Razonablemente buena,GOOD
+29/10/2020,29,10,2020,0,4,Weekday,32,32,67,23,Razonablemente buena,15,Razonablemente buena,GOOD
+30/10/2020,30,10,2020,0,5,Weekday,27,35,55,28,Razonablemente buena,19,Razonablemente buena,GOOD
+31/10/2020,31,10,2020,0,6,Weekend,31,34,51,23,Razonablemente buena,18,Razonablemente buena,GOOD
+01/11/2020,1,11,2020,0,7,Weekend,37,21,31,27,Razonablemente buena,20,Razonablemente buena,GOOD
+02/11/2020,2,11,2020,0,1,Weekday,36,24,41,36,Razonablemente buena,24,Regular,GOOD
+03/11/2020,3,11,2020,0,2,Weekday,38,26,46,34,Razonablemente buena,22,Regular,GOOD
+04/11/2020,4,11,2020,0,3,Weekday,38,26,40,21,Razonablemente buena,14,Razonablemente buena,GOOD
+05/11/2020,5,11,2020,0,4,Weekday,42,19,26,20,Buena,13,Razonablemente buena,GOOD
+06/11/2020,6,11,2020,0,5,Weekday,26,26,47,36,Razonablemente buena,20,Razonablemente buena,GOOD
+07/11/2020,7,11,2020,0,6,Weekend,35,27,43,55,Desfavorable,18,Razonablemente buena,BAD
+08/11/2020,8,11,2020,0,7,Weekend,34,22,33,18,Buena,12,Razonablemente buena,GOOD
+09/11/2020,9,11,2020,0,1,Weekday,26,36,64,23,Razonablemente buena,16,Razonablemente buena,GOOD
+10/11/2020,10,11,2020,0,2,Weekday,27,35,66,26,Razonablemente buena,16,Razonablemente buena,GOOD
+11/11/2020,11,11,2020,0,3,Weekday,28,33,65,25,Razonablemente buena,19,Razonablemente buena,GOOD
+12/11/2020,12,11,2020,0,4,Weekday,,31,56,19,Buena,17,Razonablemente buena,GOOD
+13/11/2020,13,11,2020,0,5,Weekday,,30,48,37,Razonablemente buena,18,Razonablemente buena,GOOD
+14/11/2020,14,11,2020,0,6,Weekend,16,28,45,38,Razonablemente buena,26,Desfavorable,GOOD
+15/11/2020,15,11,2020,0,7,Weekend,19,18,31,31,Razonablemente buena,17,Razonablemente buena,GOOD
+16/11/2020,16,11,2020,0,1,Weekday,16,,,25,Razonablemente buena,15,Razonablemente buena,GOOD
+17/11/2020,17,11,2020,0,2,Weekday,18,,,25,Razonablemente buena,15,Razonablemente buena,GOOD
+18/11/2020,18,11,2020,0,3,Weekday,17,37,64,33,Razonablemente buena,19,Razonablemente buena,GOOD
+19/11/2020,19,11,2020,0,4,Weekday,23,40,70,36,Razonablemente buena,24,Regular,GOOD
+20/11/2020,20,11,2020,0,5,Weekday,35,34,69,33,Razonablemente buena,20,Razonablemente buena,GOOD
+21/11/2020,21,11,2020,0,6,Weekend,41,32,57,23,Razonablemente buena,17,Razonablemente buena,GOOD
+22/11/2020,22,11,2020,0,7,Weekend,37,32,49,33,Razonablemente buena,20,Razonablemente buena,GOOD
+23/11/2020,23,11,2020,0,1,Weekday,33,42,85,24,Razonablemente buena,20,Razonablemente buena,GOOD
+24/11/2020,24,11,2020,0,2,Weekday,28,46,98,29,Razonablemente buena,24,Regular,GOOD
+25/11/2020,25,11,2020,0,3,Weekday,34,37,70,40,Razonablemente buena,23,Regular,GOOD
+26/11/2020,26,11,2020,0,4,Weekday,34,40,63,52,Desfavorable,22,Regular,BAD
+27/11/2020,27,11,2020,0,5,Weekday,39,35,57,38,Razonablemente buena,13,Razonablemente buena,GOOD
+28/11/2020,28,11,2020,0,6,Weekend,36,31,50,16,Buena,12,Razonablemente buena,GOOD
+29/11/2020,29,11,2020,0,7,Weekend,38,27,46,17,Buena,14,Razonablemente buena,GOOD
+30/11/2020,30,11,2020,0,1,Weekday,31,40,89,32,Razonablemente buena,19,Razonablemente buena,GOOD
+01/12/2020,1,12,2020,0,2,Weekday,30,47,99,35,Razonablemente buena,20,Razonablemente buena,GOOD
+02/12/2020,2,12,2020,0,3,Weekday,32,41,72,18,Buena,12,Razonablemente buena,GOOD
+03/12/2020,3,12,2020,0,4,Weekday,31,51,116,25,Razonablemente buena,22,Regular,GOOD
+04/12/2020,4,12,2020,0,5,Weekday,34,42,76,30,Razonablemente buena,16,Razonablemente buena,GOOD
+05/12/2020,5,12,2020,0,6,Weekend,41,32,54,16,Buena,11,Razonablemente buena,GOOD
+06/12/2020,6,12,2020,0,7,Weekend,46,19,31,15,Buena,9,Buena,GOOD
+07/12/2020,7,12,2020,0,1,Weekday,42,29,49,11,Buena,9,Buena,GOOD
+08/12/2020,8,12,2020,0,2,Weekday,53,16,27,29,Razonablemente buena,6,Buena,GOOD
+09/12/2020,9,12,2020,0,3,Weekday,40,39,72,27,Razonablemente buena,13,Razonablemente buena,GOOD
+10/12/2020,10,12,2020,0,4,Weekday,29,51,118,26,Razonablemente buena,19,Razonablemente buena,GOOD
+11/12/2020,11,12,2020,0,5,Weekday,27,47,116,25,Razonablemente buena,16,Razonablemente buena,GOOD
+12/12/2020,12,12,2020,0,6,Weekend,45,29,48,12,Buena,9,Buena,GOOD
+13/12/2020,13,12,2020,0,7,Weekend,34,39,70,25,Razonablemente buena,22,Regular,GOOD
+14/12/2020,14,12,2020,0,1,Weekday,25,48,120,37,Razonablemente buena,31,Desfavorable,GOOD
+15/12/2020,15,12,2020,0,2,Weekday,,45,109,35,Razonablemente buena,27,Desfavorable,GOOD
+16/12/2020,16,12,2020,0,3,Weekday,27,47,119,,,28,Desfavorable,
+17/12/2020,17,12,2020,0,4,Weekday,26,50,137,,,36,Desfavorable,
+18/12/2020,18,12,2020,0,5,Weekday,26,47,121,,,29,Desfavorable,
+19/12/2020,19,12,2020,0,6,Weekend,28,39,83,,,35,Desfavorable,
+20/12/2020,20,12,2020,0,7,Weekend,29,33,63,,,26,Desfavorable,
+21/12/2020,21,12,2020,0,1,Weekday,28,43,97,,,18,Razonablemente buena,
+22/12/2020,22,12,2020,0,2,Weekday,27,43,108,44,Regular,28,Desfavorable,GOOD
+23/12/2020,23,12,2020,0,3,Weekday,27,40,89,44,Regular,24,Regular,GOOD
+24/12/2020,24,12,2020,0,4,Weekday,32,35,66,38,Razonablemente buena,26,Desfavorable,GOOD
+25/12/2020,25,12,2020,0,5,Weekday,37,22,33,35,Razonablemente buena,22,Regular,GOOD
+26/12/2020,26,12,2020,0,6,Weekend,41,29,50,30,Razonablemente buena,16,Razonablemente buena,GOOD
+27/12/2020,27,12,2020,0,7,Weekend,33,37,67,35,Razonablemente buena,24,Regular,GOOD
+28/12/2020,28,12,2020,0,1,Weekday,40,36,60,29,Razonablemente buena,18,Razonablemente buena,GOOD
+29/12/2020,29,12,2020,0,2,Weekday,41,30,52,16,Buena,10,Buena,GOOD
+30/12/2020,30,12,2020,0,3,Weekday,39,36,67,14,Buena,11,Razonablemente buena,GOOD
+31/12/2020,31,12,2020,0,4,Weekday,34,42,78,43,Regular,34,Desfavorable,GOOD
