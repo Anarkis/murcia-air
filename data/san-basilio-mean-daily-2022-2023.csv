@@ -1,0 +1,54 @@
+DATE,DAY,MONTH,YEAR,HOUR,WEEKDAY,WEEKEND,O3,NO2,NOX,PM10,PM10_Q,PM25,PM25_Q,QUALITY
+01/01/2022,1,1,2022,0,6,Weekend,16,22,45,83,Desfavorable,48,Desfavorable,BAD
+02/01/2022,2,1,2022,0,7,Weekend,12,21,39,42,Regular,20,Razonablemente buena,GOOD
+03/01/2022,3,1,2022,0,1,Weekday,9,25,64,41,Regular,22,Regular,GOOD
+04/01/2022,4,1,2022,0,2,Weekday,19,22,49,33,Razonablemente buena,16,Razonablemente buena,GOOD
+05/01/2022,5,1,2022,0,3,Weekday,55,17,29,13,Buena,6,Buena,GOOD
+06/01/2022,6,1,2022,0,4,Weekday,39,16,29,15,Buena,10,Buena,GOOD
+07/01/2022,7,1,2022,0,5,Weekday,25,21,44,23,Razonablemente buena,17,Razonablemente buena,GOOD
+08/01/2022,8,1,2022,0,6,Weekend,35,20,36,27,Razonablemente buena,16,Razonablemente buena,GOOD
+09/01/2022,9,1,2022,0,7,Weekend,45,16,26,23,Razonablemente buena,10,Buena,GOOD
+10/01/2022,10,1,2022,0,1,Weekday,44,14,26,13,Buena,6,Buena,GOOD
+11/01/2022,11,1,2022,0,2,Weekday,20,17,36,27,Razonablemente buena,11,Razonablemente buena,GOOD
+12/01/2022,12,1,2022,0,3,Weekday,21,17,41,34,Razonablemente buena,17,Razonablemente buena,GOOD
+13/01/2022,13,1,2022,0,4,Weekday,27,18,41,35,Razonablemente buena,21,Regular,GOOD
+14/01/2022,14,1,2022,0,5,Weekday,17,,,41,Regular,24,Regular,GOOD
+15/01/2022,15,1,2022,0,6,Weekend,22,,,54,Desfavorable,30,Desfavorable,BAD
+16/01/2022,16,1,2022,0,7,Weekend,27,,,41,Regular,26,Desfavorable,GOOD
+17/01/2022,17,1,2022,0,1,Weekday,20,,,44,Regular,28,Desfavorable,GOOD
+18/01/2022,18,1,2022,0,2,Weekday,22,31,65,50,Regular,27,Desfavorable,GOOD
+19/01/2022,19,1,2022,0,3,Weekday,18,33,78,56,Desfavorable,32,Desfavorable,BAD
+20/01/2022,20,1,2022,0,4,Weekday,21,27,60,51,Desfavorable,26,Desfavorable,BAD
+21/01/2022,21,1,2022,0,5,Weekday,24,22,49,45,Regular,24,Regular,GOOD
+22/01/2022,22,1,2022,0,6,Weekend,12,18,35,52,Desfavorable,27,Desfavorable,BAD
+23/01/2022,23,1,2022,0,7,Weekend,28,13,24,25,Razonablemente buena,14,Razonablemente buena,GOOD
+24/01/2022,24,1,2022,0,1,Weekday,18,18,44,30,Razonablemente buena,21,Regular,GOOD
+25/01/2022,25,1,2022,0,2,Weekday,34,14,26,29,Razonablemente buena,13,Razonablemente buena,GOOD
+26/01/2022,26,1,2022,0,3,Weekday,27,16,30,21,Razonablemente buena,13,Razonablemente buena,GOOD
+27/01/2022,27,1,2022,0,4,Weekday,,23,41,32,Razonablemente buena,19,Razonablemente buena,GOOD
+28/01/2022,28,1,2022,0,5,Weekday,,26,52,37,Razonablemente buena,22,Regular,GOOD
+29/01/2022,29,1,2022,0,6,Weekend,,28,68,45,Regular,29,Desfavorable,GOOD
+30/01/2022,30,1,2022,0,7,Weekend,,24,48,42,Regular,26,Desfavorable,GOOD
+31/01/2022,31,1,2022,0,1,Weekday,,24,52,31,Razonablemente buena,17,Razonablemente buena,GOOD
+01/02/2022,1,2,2022,0,2,Weekday,,19,34,20,Buena,10,Buena,GOOD
+02/02/2022,2,2,2022,0,3,Weekday,21,23,45,33,Razonablemente buena,,,GOOD
+03/02/2022,3,2,2022,0,4,Weekday,18,24,53,37,Razonablemente buena,,,GOOD
+04/02/2022,4,2,2022,0,5,Weekday,22,24,52,38,Razonablemente buena,,,GOOD
+05/02/2022,5,2,2022,0,6,Weekend,33,,,39,Razonablemente buena,,,GOOD
+06/02/2022,6,2,2022,0,7,Weekend,47,,,21,Razonablemente buena,,,GOOD
+07/02/2022,7,2,2022,0,1,Weekday,23,,,27,Razonablemente buena,,,GOOD
+08/02/2022,8,2,2022,0,2,Weekday,24,30,53,32,Razonablemente buena,,,GOOD
+09/02/2022,9,2,2022,0,3,Weekday,28,29,51,33,Razonablemente buena,,,GOOD
+10/02/2022,10,2,2022,0,4,Weekday,36,28,51,33,Razonablemente buena,,,GOOD
+11/02/2022,11,2,2022,0,5,Weekday,29,29,55,34,Razonablemente buena,,,GOOD
+12/02/2022,12,2,2022,0,6,Weekend,42,25,42,33,Razonablemente buena,,,GOOD
+13/02/2022,13,2,2022,0,7,Weekend,38,26,42,32,Razonablemente buena,,,GOOD
+14/02/2022,14,2,2022,0,1,Weekday,38,26,52,30,Razonablemente buena,,,GOOD
+15/02/2022,15,2,2022,0,2,Weekday,41,29,50,21,Razonablemente buena,,,GOOD
+16/02/2022,16,2,2022,0,3,Weekday,33,30,54,30,Razonablemente buena,,,GOOD
+17/02/2022,17,2,2022,0,4,Weekday,44,26,45,24,Razonablemente buena,,,GOOD
+18/02/2022,18,2,2022,0,5,Weekday,30,32,61,49,Regular,,,GOOD
+19/02/2022,19,2,2022,0,6,Weekend,54,21,38,64,Desfavorable,16,Razonablemente buena,BAD
+20/02/2022,20,2,2022,0,7,Weekend,48,20,32,42,Regular,9,Buena,GOOD
+21/02/2022,21,2,2022,0,1,Weekday,28,27,57,45,Regular,14,Razonablemente buena,GOOD
+22/02/2022,22,2,2022,0,2,Weekday,,,,,,,,
